@@ -69,7 +69,7 @@ export default function About() {
 
             <div className="max-w-2xl space-y-6 font-sans text-base leading-8 text-black/70 sm:text-lg">
               <p>
-                Hi! I'm Randy, a Computer Science student interested in building modern web
+                Hi! I'm Randy Salim, a Computer Science student interested in building modern web
                 interfaces, AI-related products, Web3 and Crypto and digital experiences
                 that feel simple, useful, and enjoyable to use.
               </p>
