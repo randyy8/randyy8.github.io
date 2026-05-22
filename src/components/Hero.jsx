@@ -27,7 +27,7 @@ export default function Hero() {
           </div>
 
           <h1 className="mb-5 font-[Mondwest] text-5xl font-normal tracking-tight text-white sm:text-6xl md:text-7xl lg:text-8xl">
-            Hi! I am Randy
+            Hi! I'm Randy Salim
           </h1>
 
           <p className="mx-auto mb-8 max-w-2xl font-sans text-sm leading-relaxed text-white/80 sm:text-base md:text-lg">
