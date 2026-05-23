@@ -22,14 +22,21 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  background: #020202;
 }
 
 body {
   margin: 0;
   min-width: 320px;
-  min-height: 100vh;
+  min-height: 100svh;
+  overflow-x: hidden;
   background: #020202;
   font-family: Inter, system-ui, sans-serif;
+}
+
+#root {
+  min-height: 100svh;
 }
 
 button,
